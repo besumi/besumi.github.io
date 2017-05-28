@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"web",
+				"webpack-dev-server"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch04/04_02/start/src/components/SkiDayList.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch04/04_02/start/src/components/SkiDayRow.js",
+		"/C/Users/besumi/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/Z5QU0INU/waitFor10Min.krs",
+		"/C/Users/besumi/Downloads/activation_Relativity.txt",
+		"/C/Users/besumi/Downloads/activation_Processing.txt",
+		"/C/Users/besumi/Downloads/activeXclasses.txt",
+		"/C/Users/besumi/Downloads/badAclCleanup.sql",
+		"/C/Users/besumi/AppData/Local/Temp/7zO02389341/INSTALL",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch04/04_01/start/src/index.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch03/03_07/start/src/components/SkiDayCount.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch03/03_05/start/src/components/SkiDayCount.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch03/03_03/start/src/components/SkiDayCount.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch03/03_02/start/src/index.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch03/03_02/start/src/components/TravelDayCount.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/src/lib.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/dist/index.html",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/package.json",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/src/titles.json",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/src/index.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/webpack.config.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/src/stylesheets/goodbye.scss",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_06/start/src/stylesheets/hello.css",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_05/start/package.json",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_05/start/src/index.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_05/start/dist/index.html",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_05/start/webpack.config.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_04/start/package.json",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_04/start/dist/index.html",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_04/start/.babelrc",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_03/start/dist/index.html",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_01/start/dist/index.html",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_01/start/dist/index.js",
+		"/C/Users/besumi/Downloads/Ex_Files_React_EssT/Ch02/02_01/finish/dist/index.html",
+		"/C/openHAB/configurations/openhab.cfg",
+		"/C/openHAB/configurations/openhab_bsm.cfg",
+		"/C/openHAB/addons/README",
+		"/C/Users/besumi/Downloads/installEventHandler issue.rdp",
+		"/C/Users/besumi/Downloads/venable_deleteAllCasesExcept.sql",
+		"/C/Users/besumi/Downloads/Relativity.Core.API/_INSTRUCTIONS.txt",
+		"/C/Users/besumi/Downloads/findCountBrandingFields.sql",
+		"/C/Users/besumi/Downloads/multiserver.rdp",
+		"/C/Users/besumi/Downloads/sitemap.xml",
+		"/C/Users/besumi/Downloads/sitemap (1).xml",
+		"/C/Users/besumi/Downloads/9.4 single.rdp",
+		"/C/Users/besumi/AppData/Local/Temp/7zO8A6878DC/UpgradeResults.xml",
+		"/C/Users/besumi/Downloads/external_docsTab/external_docsTab.har",
+		"/C/Users/besumi/Downloads/internal_docsTab/internal_docsTab.har",
+		"/C/Users/besumi/Downloads/findCountBrandingFields (2).sql",
+		"/C/Users/besumi/Downloads/findCountBrandingFields (1).sql",
+		"/C/Users/besumi/Downloads/missingRelationalIndexes-v3 (1).sql"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"redaction",
+			"props.",
+			"props"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "github.io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
